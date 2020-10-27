@@ -2,8 +2,6 @@
 #$interface = "1.0"
 
 
-
-
 ' This automatically generated script may need to be
 ' edited in order to work correctly.
 
@@ -12,7 +10,6 @@ OD = array("show run","show ver","show ip int brief","dir","show fan")
 'For i=0 To UBound(arr)-LBound(arr)
 'MsgBox OD(i)
 'Next
-
 
 Sub Check_more()
 
@@ -47,7 +44,6 @@ sub stop_log()
 		MsgBox faile
 		end if 
 end sub
-
 
 Sub Main
 	Start_log()
