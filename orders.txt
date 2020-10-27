@@ -1,0 +1,16 @@
+Show version
+Show bootvar
+show inv
+show start
+show process cpu
+show process cpu history
+show process memory
+Show buffer 
+show ip interface brief
+show logg
+dir 
+show run 
+Show spanning-tree root
+show standby brief
+Show run
+Show ip access-list
